@@ -11,3 +11,5 @@ This project focuses on Named Entity Recognition (NER) using NLP techniques.
 - **spaCy** (for Named Entity Recognition)
 - **PyPDF2** (for PDF text extraction)
 - **Regular Expressions (Regex)** (for text segmentation & cleaning)
+# Usage
+Change "Guesbaya.pdf" with your paper.
